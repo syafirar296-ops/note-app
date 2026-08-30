@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://syafirar296-ops.github.io/note-app/sitemap.xml
